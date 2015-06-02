@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>888My New Hugo Site</title>
+    <link>http://nippon-admin.github.io/hugo-wercker-example/</link>
+    <description>Recent content on 888My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2015 17:38:51 +0900</lastBuildDate>
+    <atom:link href="http://nippon-admin.github.io/hugo-wercker-example/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://nippon-admin.github.io/hugo-wercker-example/about/</link>
+      <pubDate>Sun, 31 May 2015 17:38:51 +0900</pubDate>
+      
+      <guid>http://nippon-admin.github.io/hugo-wercker-example/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
