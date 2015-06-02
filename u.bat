@@ -1,5 +1,5 @@
-title github upload
+title heroku upload
 
 git add .
 git commit -m "init"
-git push origin master < login.txt
+git push origin master
